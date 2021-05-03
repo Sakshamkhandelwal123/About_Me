@@ -1,0 +1,16 @@
+{
+  "name": "schatterjee.com-main",
+  "version": "1.0.0",
+  "description": "My Portfolio Website ##Visit: <a href=\"https://techieshouvik.github.io/schatterjee.com/\">Portfolio Website</a>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "typed.js": "^2.0.12"
+  }
+}
